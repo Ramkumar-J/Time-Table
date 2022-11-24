@@ -1,22 +1,25 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-.time-table{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+.time-table {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
-table,tr,th,td{
-    border: 1px solid black;
-    border-collapse: collapse;
-    padding: 10px;
-    text-align: center;
+table,
+tr,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+  text-align: center;
 }
-.table-caption{
-    font-size: 30px;
-    font-weight: bold;
-    margin-bottom: 10px;
+.table-caption {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 10px;
 }
